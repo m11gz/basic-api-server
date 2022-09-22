@@ -1,7 +1,7 @@
 # basic-api-server
 
 ## Live Deploy
-[Heroku](https://miguel-basic-server.herokuapp.com/)
+[Heroku](https://miguel-basic-api-server.herokuapp.com/)
 
 ## Deployment
 How do I install the app or library?
