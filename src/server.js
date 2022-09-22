@@ -2,8 +2,8 @@
 
 const express = require('express');
 const app = express();
-const logger = require('./middleware/logger.js');
-const validator = require('./middleware/validator.js');
+const logger = require('../middleware/logger.js');
+const validator = require('../middleware/validator.js');
 
 app.use(logger);
 app.get('/person', validator, (request, response) => {
